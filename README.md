@@ -23,6 +23,6 @@ Html,Css,JavaScript,React,Redux,Node,Express,Mongo,Bootstrap,Git
 
 ## Contacto 
 
-Linkedin: linkedin.com/in/facundo-techeira
+Linkedin: https://www.linkedin.com/in/facundo-techeira/
 Email: facundotecheira00@gmail.com
 
