@@ -18,7 +18,7 @@ Espero formar parte de tu equipo
 
 ## Habilidades Tecnicas
 
-Html5,Css3,JavaScript,React,Redux,Node,Express,Mongo,Bootstrap,Git
+Html5,Css3,JavaScript,React,Redux,Node,Express,Mongo,Bootstrap,Git,Next
 
 ## Competencias
 
